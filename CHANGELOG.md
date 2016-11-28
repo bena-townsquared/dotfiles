@@ -16,4 +16,4 @@
 - Started this repo
 - Added a changelog
 
-[Unreleased]: https://github.com/bena-townsquared/keep-a-changelog/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/bena-townsquared/dotfiles/compare/v1.0.0...HEAD
