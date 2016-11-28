@@ -16,8 +16,10 @@
     ```
 - clone repos
 
+    ``` bash
     git clone https://github.com/vim-airline/vim-airline.git .janus/03-vim-airline
     git clone https://github.com/chriskempson/tomorrow-theme.git
+    ```
 
 [install-macvim]: https://github.com/macvim-dev/macvim
 [install-powerline-fonts]: https://github.com/powerline/fonts#installation
