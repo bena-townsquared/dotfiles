@@ -2,8 +2,14 @@
 
 ## [Unreleased]
 ### Added
+- vim-airline
+- font
+- tomorrow theme
 
 ### Changed
+- changed oh-my-zsh theme to agnoster
+- set vim theme to Tomorrow-Night
+- set up pyenv, rbenv
 
 ## 1.0.0 - 2016-11-28
 ### Added
