@@ -2,9 +2,10 @@
 
 ## Installing
 
-* [install the latest MacVim binary][install-macvim]
-* install oh-my-zsh
-* run this command:
+- [install the latest MacVim binary][install-macvim]
+- install oh-my-zsh
+- run this command:
+
         ``` bash
         for f in .*
         do
