@@ -86,10 +86,10 @@ source $ZSH/oh-my-zsh.sh
 
 # ruby
 export PATH="$HOME/.rbenv/bin:$PATH"
-alias initrb='"$(rbenv init -)"'
+eval "$(rbenv init - --no-rehash)"
 
 # python
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
-alias initpy='eval "$(pyenv init -)"'
+eval "$(pyenv init - --no-rehash)"
 
